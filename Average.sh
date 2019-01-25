@@ -1,4 +1,4 @@
-
+#average of number with  roundoff  3 decimal 
 #!/bin/bash
 echo "enter the numberof  integer"
 read var
